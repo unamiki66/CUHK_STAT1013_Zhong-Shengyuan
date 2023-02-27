@@ -13,9 +13,9 @@ report about the final project to CUHK-STAT1013
 2. [Hypothesis](##Hypothesis)
 3. [Prepare](##Prepare)
 ---
-## Topic: Web browsing dataset background
+## Topic: Stock price forecasting of Nintendo and Amazon
 - **Description**
->Dataset describing the Amazon and Nintendo's web browsing.
+>Dataset describing the Amazon and Nintendo's Stock price.
 - **Github**
 >https://github.com/unamiki66/CUHK_STAT1013
 
@@ -28,16 +28,16 @@ report about the final project to CUHK-STAT1013
 ---
 ## Hypothesis
 - **Tell us what your idea is and why you have chosen to pursue this idea.**
-> I am interestes in "*Which one webpage people using more in teh same time period , Nintendo or Amazon?*"
+> I am interestes in "*Which Stock price people buying/using in the same time period , Nintendo or Amazon?*"
 - **What two groups you are comparing:**
-> **G1**:opening rate of Amazon
-> **G2**:opening rate of Nintendo
+> **G1**:opening Stock price of Amazon
+> **G2**:opening Stock price of Nintendo
 - **What you will be measuring (i.e., what your response variable will be):**
 > **open**
 - **Is your response variable quantitative rather than categorical?**
 > **open** is integer data,which can be regarded as a quantitative variable.
 - **Make a prediction about what kind of difference you expect to see between your samples and WHY.**
-> I expect that **G1**>**G2**, because Amazon is a shopping website, people may need to open Amazon's website to shop for some real-life products than Nintendo's game website.
+> I expect that **G1**>**G2**, because Amazon is a shopping website, people may spend more money on Amazon's website to shop for some real-life products than Nintendo's game .
 - **Talk about how you will gather your data**
 > From yahoo!finance link:
 > 1. https://finance.yahoo.com/quote/AMZN?p=AMZN&.tsrc=fin-srch
@@ -46,7 +46,7 @@ report about the final project to CUHK-STAT1013
 >From Github link:
 >1. https://github.com/unamiki66/CUHK_STAT1013
 - **If you had unlimited resources (time, money, staff, etc.) how would you collect your data?**
->1. Attempt to collect the number of times an individual opens a website per month.
+>1. Getting more time periods' information
 >2. Try collecting more hits from different applications.
 ---
 ## Prepare
